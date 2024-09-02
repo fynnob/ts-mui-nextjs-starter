@@ -20,7 +20,7 @@ sections:
         variant: outlined
         color: primary
       - type: Button
-        label: Learn more
+        label: Top Tutorials
         url: /
         size: medium
         variant: text

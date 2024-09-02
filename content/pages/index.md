@@ -15,7 +15,7 @@ sections:
         color: primary
       - type: Button
         label: Read the Docs
-        url: ''
+        url: 'https://blogbites.netlify.app/News/Top'
         size: large
         variant: outlined
         color: primary

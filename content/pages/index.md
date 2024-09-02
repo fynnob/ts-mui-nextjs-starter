@@ -45,7 +45,7 @@ sections:
           galaxy tab a9+. This tablet includes many features like Samsung DeX
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read the Blog
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Weekly Berlin (News)

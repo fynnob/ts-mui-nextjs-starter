@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: BlogBites
-    subtitle: 'Blogs, News, Tutorials and More! All in small Bites easy to understand'
+    subtitle: 'Blogs, News, Tutorials and More! All in small Bites easy to understand!'
     text: ''
     actions:
       - type: Button

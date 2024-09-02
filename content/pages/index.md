@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: BlogBites
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: 'Blogs, News, Tutorials and More! All in small Bites easy to understand'
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn

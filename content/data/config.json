@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "",
+        "copyrightText": "Powered By [Netlify.com](netlify.com)!\n",
         "navLinks": [
             {
                 "type": "Link",

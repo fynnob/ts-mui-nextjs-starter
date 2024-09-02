@@ -24,7 +24,7 @@ sections:
         url: /
         size: medium
         variant: outlined
-        color: inherit
+        color: primary
     image:
       type: Image
       url: /images/hero.svg

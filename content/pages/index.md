@@ -37,7 +37,7 @@ sections:
         title: Latest Blog
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/samsung-galaxy-tab-a9-plus.webp
           altText: First item image
         text: >
           We are review of the Samsung Galaxy Tab A9+. The Tab A9+ has a variety

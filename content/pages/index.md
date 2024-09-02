@@ -11,7 +11,7 @@ sections:
         label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
-        variant: contained
+        variant: text
         color: primary
       - type: Button
         label: Read the Docs

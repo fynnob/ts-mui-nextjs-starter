@@ -34,7 +34,7 @@ sections:
     subtitle: 'Blogs, New, Tutorials and other!'
     items:
       - type: Card
-        title: Ne
+        title: Latest Blog
         image:
           type: Image
           url: /images/nextjs.svg

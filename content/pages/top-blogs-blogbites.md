@@ -4,7 +4,7 @@ title: /Blogs/Top
 sections:
   - type: HeroSection
     title: TEST
-    subtitle: The section subtitle
+    subtitle: Cool YEAR
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.

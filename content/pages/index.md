@@ -23,7 +23,7 @@ sections:
         label: Top Tutorials
         url: /
         size: medium
-        variant: contained
+        variant: outlined
         color: inherit
     image:
       type: Image

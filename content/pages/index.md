@@ -40,10 +40,9 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          How good are Samsung tablets? Are they worth it? We are going to find
+          all of this out in this weeks blog. I'm going to take a look at the
+          galaxy tab a9+. This tablet includes many features like Samsung DeX
         actions:
           - type: Button
             label: Read the Docs

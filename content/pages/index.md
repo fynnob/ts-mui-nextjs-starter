@@ -21,7 +21,7 @@ sections:
         color: primary
       - type: Button
         label: Top Tutorials
-        url: /
+        url: /Tutorials-Top
         size: medium
         variant: outlined
         color: primary

@@ -34,7 +34,7 @@ sections:
     subtitle: 'Top Blogs, New, Tutorials and other!'
     items:
       - type: Card
-        title: First Card Title
+        title: Weekly World News
         image:
           type: Image
           url: /images/nextjs.svg

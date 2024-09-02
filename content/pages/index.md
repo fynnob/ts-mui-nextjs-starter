@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Top Blogs
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://blogbites.netlify.app/blog/top'
         size: large
         variant: contained
         color: primary

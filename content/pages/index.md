@@ -24,7 +24,7 @@ sections:
         url: /
         size: medium
         variant: contained
-        color: secondary
+        color: primary
     image:
       type: Image
       url: /images/hero.svg

@@ -9,7 +9,7 @@ sections:
     actions:
       - type: Button
         label: Top Blogs
-        url: /Blogs/Top
+        url: /blogs/top
         size: large
         variant: contained
         color: primary

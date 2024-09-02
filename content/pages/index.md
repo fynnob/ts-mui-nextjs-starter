@@ -31,7 +31,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Top
-    subtitle: Section subtitle here
+    subtitle: 'Top Blogs, New, Tutorials and other!'
     items:
       - type: Card
         title: First Card Title

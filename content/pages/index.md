@@ -40,9 +40,8 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          How good are Samsung tablets? Are they worth it? We are going to find
-          all of this out in this weeks blog. I'm going to take a look at the
-          galaxy tab a9+. This tablet includes many features like Samsung DeX
+          We are review of the Samsung Galaxy Tab A9+. The Tab A9+ has a variety
+          of features like Samsung DeX for a very low price of about 250$.
         actions:
           - type: Button
             label: Read the Blog
